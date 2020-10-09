@@ -1,0 +1,44 @@
+C:\Users\Owner\source\repos\MarkLogic\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.deps.json
+C:\Users\Owner\source\repos\MarkLogic\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.runtimeconfig.json
+C:\Users\Owner\source\repos\MarkLogic\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\MarkLogic\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.dll
+C:\Users\Owner\source\repos\MarkLogic\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.pdb
+C:\Users\Owner\source\repos\MarkLogic\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\MarkLogic\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\MarkLogic\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\MarkLogic\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.AssemblyInfo.cs
+C:\Users\Owner\source\repos\MarkLogic\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.dll
+C:\Users\Owner\source\repos\MarkLogic\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.pdb
+F:\CMPSC431\MarkLogic\MarkLogic_C#\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.deps.json
+F:\CMPSC431\MarkLogic\MarkLogic_C#\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.runtimeconfig.json
+F:\CMPSC431\MarkLogic\MarkLogic_C#\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.runtimeconfig.dev.json
+F:\CMPSC431\MarkLogic\MarkLogic_C#\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.dll
+F:\CMPSC431\MarkLogic\MarkLogic_C#\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.pdb
+F:\CMPSC431\MarkLogic\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.csprojAssemblyReference.cache
+F:\CMPSC431\MarkLogic\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.csproj.CoreCompileInputs.cache
+F:\CMPSC431\MarkLogic\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.AssemblyInfoInputs.cache
+F:\CMPSC431\MarkLogic\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.AssemblyInfo.cs
+F:\CMPSC431\MarkLogic\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.dll
+F:\CMPSC431\MarkLogic\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.pdb
+C:\Users\xiaoh\Downloads\C#_MarkLogic_Template\MarkLogic_C#\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.deps.json
+C:\Users\xiaoh\Downloads\C#_MarkLogic_Template\MarkLogic_C#\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.runtimeconfig.json
+C:\Users\xiaoh\Downloads\C#_MarkLogic_Template\MarkLogic_C#\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.runtimeconfig.dev.json
+C:\Users\xiaoh\Downloads\C#_MarkLogic_Template\MarkLogic_C#\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.dll
+C:\Users\xiaoh\Downloads\C#_MarkLogic_Template\MarkLogic_C#\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.pdb
+C:\Users\xiaoh\Downloads\C#_MarkLogic_Template\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.csprojAssemblyReference.cache
+C:\Users\xiaoh\Downloads\C#_MarkLogic_Template\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.csproj.CoreCompileInputs.cache
+C:\Users\xiaoh\Downloads\C#_MarkLogic_Template\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.AssemblyInfoInputs.cache
+C:\Users\xiaoh\Downloads\C#_MarkLogic_Template\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.AssemblyInfo.cs
+C:\Users\xiaoh\Downloads\C#_MarkLogic_Template\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.dll
+C:\Users\xiaoh\Downloads\C#_MarkLogic_Template\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.pdb
+C:\Users\Bansari\Desktop\Working Directory\fall 2018\CMPSC 431 Project II\MarkLogic_C#\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.deps.json
+C:\Users\Bansari\Desktop\Working Directory\fall 2018\CMPSC 431 Project II\MarkLogic_C#\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.runtimeconfig.json
+C:\Users\Bansari\Desktop\Working Directory\fall 2018\CMPSC 431 Project II\MarkLogic_C#\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.runtimeconfig.dev.json
+C:\Users\Bansari\Desktop\Working Directory\fall 2018\CMPSC 431 Project II\MarkLogic_C#\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.dll
+C:\Users\Bansari\Desktop\Working Directory\fall 2018\CMPSC 431 Project II\MarkLogic_C#\MarkLogic\bin\Debug\netcoreapp2.0\MarkLogic.pdb
+C:\Users\Bansari\Desktop\Working Directory\fall 2018\CMPSC 431 Project II\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.csprojAssemblyReference.cache
+C:\Users\Bansari\Desktop\Working Directory\fall 2018\CMPSC 431 Project II\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.csproj.CoreCompileInputs.cache
+C:\Users\Bansari\Desktop\Working Directory\fall 2018\CMPSC 431 Project II\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.AssemblyInfoInputs.cache
+C:\Users\Bansari\Desktop\Working Directory\fall 2018\CMPSC 431 Project II\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.AssemblyInfo.cs
+C:\Users\Bansari\Desktop\Working Directory\fall 2018\CMPSC 431 Project II\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.dll
+C:\Users\Bansari\Desktop\Working Directory\fall 2018\CMPSC 431 Project II\MarkLogic_C#\MarkLogic\obj\Debug\netcoreapp2.0\MarkLogic.pdb
